@@ -176,17 +176,6 @@ section{
         border-left: 3px solid #ffffff;
     }
 }
-@keyframes words {
-    0%, 33%{
-        content: "Developer";
-    }
-    34%, 66%{
-        content: "Designer";
-    }
-    67%, 100%{
-        content: "Youtuber";
-    }
-}
 .content p{
     font-size: clamp(0.4rem, 0.2rem + 9vw, 1rem);
     margin: 10px 0;
